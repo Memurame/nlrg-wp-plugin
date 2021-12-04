@@ -1,0 +1,12 @@
+{
+    "name": "nlrg/wp-plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Thomas Hirter",
+            "email": "tom@hirter.dev"
+        }
+    ]
+}
